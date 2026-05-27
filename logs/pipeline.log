@@ -1,0 +1,9 @@
+2026-05-25 17:10:28,138  INFO  === Run started: 2026-05-25T17:10:28.138375 ===
+2026-05-25 17:10:28,144  INFO  Loaded 406 Whisper segments
+2026-05-25 17:10:28,145  INFO  Built 17 candidate chunks
+2026-05-25 17:10:28,154  INFO  Selected 3 clips:
+2026-05-25 17:10:28,154  INFO    00:00:00  score=7.07   hook words: the problem, you need, don't; complete sentence; contains question
+2026-05-25 17:10:28,154  INFO    00:06:09  score=9.26   dense speech; hook words: the problem, don't, best; complete sentence; contains question
+2026-05-25 17:10:28,154  INFO    00:15:46  score=6.63   hook words: realized, important, best; complete sentence; contains question
+2026-05-25 17:10:28,156  INFO  Wrote C:\PodcastClips\cut_clips.bat with 3 clips
+2026-05-25 17:10:28,157  INFO  === Run complete ===

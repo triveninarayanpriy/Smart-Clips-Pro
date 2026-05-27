@@ -1,0 +1,17 @@
+{
+  "run_ts": "20260527_133823",
+  "clips": [
+    {
+      "clip": "active_episode__01__imagine__20260527_133823.mp4",
+      "status": "ok",
+      "path": "C:\\PodcastClips\\clips\\active_episode__01__imagine__20260527_133823.mp4",
+      "score": 14.38
+    },
+    {
+      "clip": "active_episode__02__struggle__20260527_133823.mp4",
+      "status": "ok",
+      "path": "C:\\PodcastClips\\clips\\active_episode__02__struggle__20260527_133823.mp4",
+      "score": 12.83
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "run_ts": "20260527_122926",
+  "clips": [
+    {
+      "clip": "active_episode__01__let_me_tell_you__20260527_122926.mp4",
+      "status": "ok",
+      "path": "C:\\PodcastClips\\clips\\active_episode__01__let_me_tell_you__20260527_122926.mp4",
+      "score": 11.75
+    },
+    {
+      "clip": "active_episode__02__and_then__20260527_122926.mp4",
+      "status": "ok",
+      "path": "C:\\PodcastClips\\clips\\active_episode__02__and_then__20260527_122926.mp4",
+      "score": 8.75
+    },
+    {
+      "clip": "active_episode__03__let_me_tell_you__20260527_122926.mp4",
+      "status": "ok",
+      "path": "C:\\PodcastClips\\clips\\active_episode__03__let_me_tell_you__20260527_122926.mp4",
+      "score": 8.4
+    },
+    {
+      "clip": "active_episode__04__let_me_tell_you__20260527_122926.mp4",
+      "status": "ok",
+      "path": "C:\\PodcastClips\\clips\\active_episode__04__let_me_tell_you__20260527_122926.mp4",
+      "score": 4.98
+    }
+  ]
+}

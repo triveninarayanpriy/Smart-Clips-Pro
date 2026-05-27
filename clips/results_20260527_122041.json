@@ -1,0 +1,35 @@
+{
+  "run_ts": "20260527_122041",
+  "clips": [
+    {
+      "clip": "active_episode__01__but_then__20260527_122041.mp4",
+      "status": "ok",
+      "path": "C:\\PodcastClips\\clips\\active_episode__01__but_then__20260527_122041.mp4",
+      "score": 18.29
+    },
+    {
+      "clip": "active_episode__02__years_ago__20260527_122041.mp4",
+      "status": "ok",
+      "path": "C:\\PodcastClips\\clips\\active_episode__02__years_ago__20260527_122041.mp4",
+      "score": 18.94
+    },
+    {
+      "clip": "active_episode__03__amazon__20260527_122041.mp4",
+      "status": "ok",
+      "path": "C:\\PodcastClips\\clips\\active_episode__03__amazon__20260527_122041.mp4",
+      "score": 17.42
+    },
+    {
+      "clip": "active_episode__04__how_to__20260527_122041.mp4",
+      "status": "ok",
+      "path": "C:\\PodcastClips\\clips\\active_episode__04__how_to__20260527_122041.mp4",
+      "score": 17.37
+    },
+    {
+      "clip": "active_episode__05__the_real_reason__20260527_122041.mp4",
+      "status": "ok",
+      "path": "C:\\PodcastClips\\clips\\active_episode__05__the_real_reason__20260527_122041.mp4",
+      "score": 19.04
+    }
+  ]
+}
