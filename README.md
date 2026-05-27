@@ -30,5 +30,5 @@ Before running this pipeline, ensure your system has the following installed and
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/Smart-Clips-Pro.git](https://github.com/triveninarayanpriyYourUsername/Smart-Clips-Pro.git)
+   git clone (https://github.com/triveninarayanpriyYourUsername/Smart-Clips-Pro.git)
    cd Smart-Clips-Pro
